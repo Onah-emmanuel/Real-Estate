@@ -1,0 +1,23 @@
+@media screen and (max-width: 850px) {
+    .nav-desktop {
+      display: none; 
+    }
+    .nav-mobile {
+      display: block;
+      display: flex;
+    }
+    .m-h {
+      padding: 15px;
+      color: #d7d7d7;
+    }
+    .mo {
+      display: block;
+    }
+    
+    .search {
+      width: 100%;
+      margin: 10%;
+      font-size: 20px;
+      /* padding: 0; */
+    }
+}
